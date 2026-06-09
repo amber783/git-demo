@@ -93,7 +93,7 @@ body {
 .btn-add {
   padding: 12px 20px;
   background: var(--accent);
-  color: #fff;
+  color: #3ecf8e;
   border: none;
   border-radius: var(--radius);
   font-size: 0.95rem;
